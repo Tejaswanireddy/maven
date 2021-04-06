@@ -1,1 +1,1 @@
-# maven
+print {"Hello world"}
